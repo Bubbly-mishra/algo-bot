@@ -1,0 +1,36 @@
+/* src/styles.css */
+
+/* Basic reset for margins and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Card styling example */
+.card {
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+}
+
+/* Header and title styling */
+.card-header {
+    font-weight: bold;
+}
+
+.card-title {
+    margin: 10px 0;
+}
+
+.card-content {
+    margin: 10px 0;
+}
